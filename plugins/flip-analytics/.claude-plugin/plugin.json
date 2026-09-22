@@ -1,6 +1,6 @@
 {
   "name": "flip-analytics",
   "description": "Analytical reports and brand-visibility analysis on top of the Flip Analytics MCP tools",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "keywords": ["analytics", "reports", "geo", "aeo", "brand-visibility", "mcp"]
 }
