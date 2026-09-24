@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "flip-analytics": {
+      "type": "http",
+      "url": "https://api.analytics.theflip.io/v1/mcp"
+    }
+  }
+}
