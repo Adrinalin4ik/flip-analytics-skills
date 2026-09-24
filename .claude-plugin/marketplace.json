@@ -5,14 +5,14 @@
   },
   "metadata": {
     "description": "Skills for working with Flip Analytics — brand visibility in AI answers",
-    "version": "0.3.0"
+    "version": "0.3.1"
   },
   "plugins": [
     {
       "name": "flip-analytics",
       "source": "./plugins/flip-analytics",
       "description": "Analytical reports and brand-visibility analysis on top of the Flip Analytics MCP tools",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "category": "analytics",
       "keywords": ["analytics", "reports", "geo", "aeo", "brand-visibility", "mcp"]
     }
